@@ -30,7 +30,7 @@
 		"innerColor": [0,0,0],
 		"uniqueName": "Dark side",
 		"uniques": ["[+50]% Strength <for [Gunpowder] units>", "[+10 Production] [in capital]", "[+5 Production] [in all cities]"],
-		"cities": ["Cruiser Debris"]
+		"cities": ["Corusant", "Naboo", "Alderaan", "Mandalore", "Endor", "Carida", "Corellia", "Berchest", "Thyferra", "Eriadu"]
 		"spyNames": ["Tarkin", "Bobba Fett", "Shin Hati", "Jungletrooper", "Deserttrooper"]
 	}
 ]
