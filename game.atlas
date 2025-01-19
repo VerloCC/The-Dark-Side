@@ -1,0 +1,53 @@
+
+game.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/AbsoluteUnits/Units/Stormtrooper
+  rotate: false
+  xy: 4, 4
+  size: 1536, 1536
+  orig: 1536, 1536
+  offset: 0, 0
+  index: -1
+
+game2.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+LeaderIcons/Darth Vader
+  rotate: false
+  xy: 4, 4
+  size: 1280, 1280
+  orig: 1280, 1280
+  offset: 0, 0
+  index: -1
+
+game3.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/Galaxy Empire
+  rotate: false
+  xy: 4, 524
+  size: 1280, 1280
+  orig: 1280, 1280
+  offset: 0, 0
+  index: -1
+UnitIcons/Stormtrooper
+  rotate: false
+  xy: 4, 4
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+UnitIcons/Tie Fighter
+  rotate: false
+  xy: 1292, 1604
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
